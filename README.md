@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm a full stack developer from National Hsing Hua University <br><br>- 🔭 I’m working as a Backend Engineer at Appier. <br>- 📚 I’m currently learning Clean Architecture. <br><br>- 🧪 My research focuses on Computer Vision, Machine Learning, and Software Engineering.<br><br>- - 💡 Recently, I’ve been working on a project about **Design Patterns in Dart**, exploring best practices for scalable Flutter applications.<br>
+<p align="left">I'm a full stack developer from National Hsing Hua University <br><br>- 🔭 I’m working as a Backend Engineer at Appier. <br>- 📚 I’m currently learning Clean Architecture. <br>- 🧪 My research focuses on Computer Vision, Machine Learning, and Software Engineering.<br>- 💡 Recently, I’ve been working on a project about **Design Patterns in Dart**, exploring best practices for scalable Flutter applications.<br>
 
 ###
 
